@@ -1,0 +1,48 @@
+Bookly — reference architecture examples
+Copyright (c) 2026 pawzem
+
+Licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License
+(CC BY-NC-ND 4.0).
+
+This repository is published as a REFERENCE and TEACHING artifact — to be
+read and learned from, not consumed as a software dependency, library, or
+starting point for a derived work.
+
+You are free to:
+
+  • Share — copy and redistribute the material in any medium or format,
+    so long as you give appropriate credit and link back to this license.
+
+Under the following terms:
+
+  • Attribution — You must give appropriate credit, provide a link to this
+    license, and indicate if changes were made.
+
+  • NonCommercial — You may not use the material for commercial purposes.
+
+  • NoDerivatives — If you remix, transform, or build upon the material,
+    you may not distribute the modified material.
+
+  • No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing anything
+    the license permits.
+
+Note on patterns vs. expression: the software architecture *patterns* and
+*ideas* demonstrated here (the modular monolith, transactional outbox,
+ports & adapters, architecture fitness functions, rich aggregates, and so
+on) are not subject to copyright and are free for anyone to use for any
+purpose, including commercially. This license applies only to this specific
+collection of code and prose as a fixed expression.
+
+Full legal code:
+  https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+Human-readable summary:
+  https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE EXTENT
+PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MATERIAL OR
+ITS USE.
